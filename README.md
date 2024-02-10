@@ -1,1 +1,1 @@
-### A clone of [Sundown-studio.com(https://sundown-studio.com)]
+### A clone of [Sundown-studio(https://sundown-studio.com)]
